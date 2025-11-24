@@ -1,6 +1,23 @@
-# english-for-designers
+# English For Designers
 
-work-in-progress 
+# Variant 1
+
+# NATURE AS TYPE: A Hair-Font Exploration
+
+Mariya's organic type specimen. An exploration of sustainability, identity, and the artistic reuse of hair as a unique material for font creation.
+ 
+![photo_2025-11-24 18 16 53](https://github.com/user-attachments/assets/110fbcd3-83de-482c-9163-5de52041e963)
+
+- [Alt Text](alt-text)
+
+# Variant 2
+
+# Hair Type: Rethinking Waste as Artful Material
+
+This type specimen integrates hair as a design material, accompanied by a story exploring identity, sustainability, and the transformation of personal waste into art.
+
+![photo_2025-11-24 18 16 58](https://github.com/user-attachments/assets/1c5d633a-09f2-4167-b71e-874829b1f371)
+
 
 - [Alt Text](alt-text)
 
