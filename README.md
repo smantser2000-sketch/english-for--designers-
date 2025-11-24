@@ -1,4 +1,4 @@
-
+# About me
 Hello! I’m Maryia, a Graphic Designer and Model. My strength lies in empathy—I build strong connections with people to create a seamless workflow. I focus on translating client wishes into functional, eye-catching designs that truly work. 
 
 Check out my portfolio or contact me at smantser2000@gmail.com and LinkedIn.
