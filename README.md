@@ -8,7 +8,7 @@ Mariya's organic type specimen. An exploration of sustainability, identity, and 
  
 ![photo_2025-11-24 18 16 53](https://github.com/user-attachments/assets/110fbcd3-83de-482c-9163-5de52041e963)
 
-- [Alt Text](alt_varaint1.md)
+- [Alt Text](alt_text/alt_varaint1.md)
 
 # Variant 2
 
@@ -19,5 +19,5 @@ This type specimen integrates hair as a design material, accompanied by a story 
 ![photo_2025-11-24 18 16 58](https://github.com/user-attachments/assets/1c5d633a-09f2-4167-b71e-874829b1f371)
 
 
-- [Alt Text](alt_varaint2.md)
+- [Alt Text](alt_text/alt_varaint2.md)
 
